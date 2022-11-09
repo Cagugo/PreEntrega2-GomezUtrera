@@ -16,6 +16,15 @@ h2{
 
 h3{
     font-size: 2em;
+    color: #f5f5f5;
+    text-shadow: 0 0 5px #03e903,
+    0 0 25px #03e903,
+    0 0 50px #03e903,
+    0 0 100px #03e903;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s;
 }
 
 p{
@@ -295,7 +304,15 @@ footer .container{
   
   .precio-menu span{
     font-size: 2rem;
-    color: #00ff37;
+    color: #f5f5f5;
+    text-shadow: 0 0 5px #03e903,
+    0 0 25px #03e903,
+    0 0 50px #03e903,
+    0 0 100px #03e903;
+    letter-spacing: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 1s;
   }
 
   @media (max-width:768px){
